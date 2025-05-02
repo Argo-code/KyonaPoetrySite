@@ -1,0 +1,12 @@
+title: Kyona's Poetry Archive
+description: A collection of poetry by Kyona.
+baseurl: "" 
+url: "https://argo-code.github.io"
+remote_theme: knhash/jekyllBear
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
