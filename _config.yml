@@ -1,6 +1,6 @@
 title: Kyona's Poetry Archive
 description: A collection of poetry by Kyona.
-baseurl: "/kyonapoetrysite" 
+baseurl: "/KyonaPoetrySite" 
 url: "https://argo-code.github.io"
 remote_theme: knhash/jekyllBear
 
