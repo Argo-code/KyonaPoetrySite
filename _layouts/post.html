@@ -7,22 +7,31 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2575.4">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1">---</p>
-<p class="p1">layout: default</p>
-<p class="p1">---</p>
-<p class="p2"><br></p>
-<p class="p1">&lt;article class="post"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;h1&gt;{{ page.title }}&lt;/h1&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;div class="entry"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{{ content }}</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;/div&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;p&gt;&lt;a href="{{ site.baseurl }}/"&gt;Return to All Poems&lt;/a&gt;&lt;/p&gt;</p>
-<p class="p1">&lt;/article&gt;</p>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p1"><span class="s1">layout: default</span></p>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;main class="container"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;article class="post"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;header&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;h1 class="post-title"&gt;{{ page.title }}&lt;/h1&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;time datetime="{{ page.date | date_to_xmlschema }}"&gt;{{ page.date | date: "%B %d, %Y" }}&lt;/time&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/header&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="post-content"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{ content }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;footer&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;&lt;a href="{{ <a href="https://argo-code.github.io/KyonaPoetrySite/">https://argo-code.github.io/KyonaPoetrySite/</a> }}/"&gt;← Return to All Poems&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/footer&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/article&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/main&gt;</span></p>
 </body>
 </html>
