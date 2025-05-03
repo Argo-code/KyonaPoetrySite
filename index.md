@@ -3,7 +3,7 @@ layout: default
 title: "Kyona's Poetry Archive"
 ---
 
-Welcome to a collection of poetry by Kyona.
+Welcome to a collection of poetry by Argo.
 
 <ul>
   {% for post in site.posts %}
