@@ -1,7 +1,8 @@
 title: Kyona's Poetry Archive
 description: A collection of poetry by Kyona.
-baseurl: "/KyonaPoetrySite" 
-url: "https://argo-code.github.io"
+baseurl: "/KyonaPoetrySite"  # ← this MUST match your repo name exactly, case-sensitive
+url: "https://argo-code.github.io"  # ← your GitHub user page
+
 remote_theme: knhash/jekyllBear
 
 plugins:
