@@ -77,3 +77,6 @@ but something stranger still,
 an ancient being born of fire,
 unquenchable--
 still aflame.
+
+
+<p><a href="{{ site.baseurl }}/">← Return to All Poems</a></p>
