@@ -1,5 +1,5 @@
-title: Kyona's Poetry Archive
-description: A collection of poetry by Kyona.
+title: Argo's Poetry Archive
+description: A collection of poetry by Argo.
 baseurl: "/KyonaPoetrySite"  # ← this MUST match your repo name exactly, case-sensitive
 url: "https://argo-code.github.io"  # ← your GitHub user page
 
