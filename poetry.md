@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog
+title: Poetry
 description: Poetry
-permalink: /blog
+permalink: /poetry/
 ---
 
 Welcome to a collection of poetry by Argo.
