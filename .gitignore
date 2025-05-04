@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Ignore Gemfile.lock for GitHub Pages site
+Gemfile.lock
