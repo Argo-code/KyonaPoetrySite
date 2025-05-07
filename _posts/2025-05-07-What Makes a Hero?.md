@@ -4,12 +4,13 @@ title: "What Makes a Hero?"
 tags: []
 ---
 An epistolary
+<br>
 
 Dear Hero,
 
 Tell me—
-
 what makes a hero?
+<br>
 
 By definition, perhaps: a savior.
 
@@ -29,7 +30,7 @@ walks the path of righteousness.
 But I disagree.
 
 
-
+<br>
 A hero, to me, is someone who knows their limits.
 
 Someone who shouts into the void,
