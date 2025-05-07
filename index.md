@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kyona's Poetry Archive"
+title: "Argo's Poetry Archive"
 ---
 
-Hello ArGOAT - Mayday
+Enjoy my poems!
