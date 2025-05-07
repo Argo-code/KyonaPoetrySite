@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "What Makes a Hero?"
 tags: []
 ---
 An epistolary 
-**Dear Hero,**
+Dear Hero,
 
 Tell me—
 what makes a hero?
