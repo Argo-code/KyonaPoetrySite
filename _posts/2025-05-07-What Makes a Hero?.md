@@ -24,7 +24,10 @@ bears the ring,
 walks the path of righteousness.
 
 
+<br>
+
 But I disagree.
+
 
 
 A hero, to me, is someone who knows their limits.
@@ -49,6 +52,7 @@ a saint.
 
 
 
+<br>
 How can one fight a hydra
 
 without someone to swing the blade,
@@ -57,6 +61,7 @@ or a torch to cauterize the wounds?
 
 
 
+<br>
 How does a hero know the weakness of the beast,
 
 if not through the sage’s guidance,
@@ -67,6 +72,7 @@ the mage’s divinations?
 
 
 
+<br>
 It is not a single soul that makes a hero—
 
 but those who surround them.
@@ -85,6 +91,7 @@ That is the true hero.
 
 
 
+<br>
 Individual though they may be,
 
 it is the asking that marks the difference
@@ -103,6 +110,7 @@ reduced to a number.
 
 
 
+<br>
 Your valor is mythical.
 
 Mystical. Divine.
@@ -116,7 +124,7 @@ But to recognize your limits—
 that is divine.
 
 
-
+<br>
 To seize your story,
 
 to write your own lines,
@@ -128,7 +136,7 @@ keeper and author—
 that is heroism.
 
 
-
+<br>
 Struggling is human.
 
 Struggling with someone?
@@ -137,11 +145,12 @@ That is heroic.
 
 
 
+<br>
 I am in awe of your strength,
 
 your wisdom,
 
 your fortitude.
 
-
+<br>
 Carry on, my hero.
